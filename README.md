@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/user-attachments/assets/9cafd694-abe8-4689-b295-9348a1fa2889" width="32"> Hi, I'm Dmytro (aka kpumuk) <img src="https://github.com/user-attachments/assets/9cafd694-abe8-4689-b295-9348a1fa2889" width="32"></h1>
+<h1 align="center"><a href="https://dmytro.sh/stand-with-ukraine/"><img src="https://github.com/user-attachments/assets/9cafd694-abe8-4689-b295-9348a1fa2889" width="32"></a> Hi, I'm Dmytro (aka kpumuk) <a href="https://dmytro.sh/stand-with-ukraine/"><img src="https://github.com/user-attachments/assets/9cafd694-abe8-4689-b295-9348a1fa2889" width="32"></a></h1>
 
 <div align="center">
   <a href="https://ruby.social/@kpumuk"><img src="https://img.shields.io/mastodon/follow/109263443718869612?color=6364ff&domain=https%3A%2F%2Fruby.social&label=Mastodon&logo=mastodon&logoColor=fff&style=flat-square"></a>
